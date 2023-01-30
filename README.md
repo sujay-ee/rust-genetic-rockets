@@ -1,6 +1,9 @@
 ## Genetic Rockets Simulation
 A genetic algorithm simulation of rockets trying to reach the target written in [rust](https://www.rust-lang.org/) using [nannou](https://nannou.cc/).
 
+#### Video demo
+https://user-images.githubusercontent.com/43251130/215404632-01769862-1162-4b1a-a0e9-8f03cf1fe557.mp4
+
 #### Usage
 - Clone the repo
     ```
