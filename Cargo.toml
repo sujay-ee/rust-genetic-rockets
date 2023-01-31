@@ -5,6 +5,9 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[profile.release]
+lto = "thin"
+
 [dependencies]
 nannou = "0.18.1"
 rand = "0.8.5"
